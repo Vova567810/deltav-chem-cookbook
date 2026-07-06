@@ -3,8 +3,8 @@ import yaml
 import json
 import os
 
-REPO_OWNER = "space-wizards"
-REPO_NAME = "space-station-14"
+REPO_OWNER = "DeltaV-Station"
+REPO_NAME = "Delta-v"
 BRANCH = "master"
 
 STATIC_DB_FILE = "chem_recipes.json"
